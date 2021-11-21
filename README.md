@@ -1,4 +1,7 @@
 # NYC_Citibike_Analysis
+## Links
+[link to dashboard] https://public.tableau.com/app/profile/mary.kate.shea/viz/CitiBike_Challenge_16375217812940/CItiBikeRIdershipAnalysis
+[link to Github] https://github.com/mkshea1965/NYC_Citibike_Analysis
 ## Overview
 The purpose of this analysis is to explore a bike share program for the city of Des Moines, Iowa. Using Tableau, we were able to visualize data from CitiBike usage records to prepare a case for an angel investor.
 ## Results
